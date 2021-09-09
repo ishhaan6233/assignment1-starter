@@ -1,11 +1,22 @@
 # Intro to NLP - Assignment 1
 
-## README file
+## Team
+|Student name| CCID |
+|------------|------|
+|student 1   |      |
+|student 2   |      |
+
+## TODOs
 
 In this file you **must**:
-1. List your name and CCID, and those of your partner if you worked with someone else.
-2. Acknowledge all resources consulted (discussions, texts, urls, etc.) while working on an assignment. Non-detailed oral discussion with others is permitted as long as any such discussion is summarized and acknowledged by all parties.
-3. Provide clear installation and execution instructions that TAs must follow to execute your code.
+- [ ] Fill out the team table above. Please note that CCID is **different** from your student number.
+- [ ] Acknowledge all resources consulted (discussions, texts, urls, etc.) while working on an assignment. Non-detailed oral discussion with others is permitted as long as any such discussion is summarized and acknowledged by all parties.
+- [ ] Provide clear installation and execution instructions that TAs must follow to execute your code.
+
+## Execution
+Use the following command in the current directory.
+
+`python3 src/main.py data/dev/ output/dev.csv`
 
 ## Data
 
