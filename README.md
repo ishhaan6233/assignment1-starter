@@ -1,10 +1,13 @@
 # Intro to NLP - Assignment 1
 
-## Team
+## Team (I worked on it, on my own)
 |Anonymous ID|
 |------------|
 |student 1   |
 |student 2   |
+
+My Student ID: 1780950
+Student Name: Ishaan Meena
 
 ## TODOs
 
